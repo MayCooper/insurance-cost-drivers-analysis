@@ -2,8 +2,6 @@
 
 **Exploratory and inferential analysis of a health insurance dataset using univariate, bivariate, and statistical testing to identify cost drivers, risk factors, and regional health trends.**
 
----
-
 ## Project Overview  
 This project examines a health insurance dataset containing demographic, lifestyle, and medical cost information for 1,338 insured individuals.  
 The goal is to analyze how factors such as **age**, **sex**, **BMI**, **smoking status**, and **region** affect healthcare costs.  
